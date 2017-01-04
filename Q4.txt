@@ -1,0 +1,38 @@
+so the arrows is the relation between the stages and frome where to start and where it end 
+the arrows from CREAT to (Browes , change , revert ) it means that after you creat project you will be able to browes 
+and to change and so on 
+then the arrowes from commit to ( branch , updet , revert ) showes that the commit can be change or updet 
+forword or backword 
+then after you finsh all commit and the project is rady then it come to push ( so it shows all changes and gives final updeted project ) 
+
+
+in the digran , the first thing to do in to creat new project 
+( creat ) 
+Create a repo from existing data ,Clone a current repo (into a folder with same name as repo) 
+ (show ) 
+then you will be alowed to add people in this project , open new pranches 
+(change)
+adding changed files to index tree to be committed
+and show the files that been changed 
+(revert ) 
+Go back to the last commit (will not delete new unstaged files)
+Undo/revert last commit AND create a new commit
+Undo/revert a specific commit AND create a new commit
+(update) 
+Retrieving updates from another repository and updating local repos
+git remote add 
+add a git URL as an alias
+git fetch 
+fetch down all the branches from that Git remote
+git merge 
+(branch)
+Get a remote branch from origin into a local branch (naming the branch and switching to it)
+Show all branches (local and remote)
+Create a branch from HEAD
+(commit)
+add any change to the origen file 
+(publish)
+Push your changes to the origin 
+
+
+
