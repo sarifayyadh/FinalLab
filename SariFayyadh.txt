@@ -1,8 +1,8 @@
-Sari Fayadh 
+Sari Fayadh     ساري فياض 
 5-2-1993   
-211210062	
-IS  
-System analysis and design 
+211210062	      
+IS              نظم معلومات ادارية 
+System analysis and design   
 Introduction to information system 
 Confederation management
 Business   process managements  
