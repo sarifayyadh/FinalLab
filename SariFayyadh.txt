@@ -6,9 +6,9 @@ System analysis and design
 Introduction to information system 
 Confederation management
 Business   process managements  
-Project management 
+Project management     ادراة المشاريع 
 Data maiming
-Prof. Ahmad samah
+Prof. Ahmad samah      البروفيسور / أحمد سامح 
 Dr. Anis Zarrad
 Dr.Ibrahim Abu-Nadi
 
